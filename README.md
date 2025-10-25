@@ -33,9 +33,7 @@
 
 - Focused on dark elegance  
 - Consistency over shadows  
-
-<img src="https://github-profile-trophy.vercel.app/?username=DivaQueen-dev&theme=dracula&row=1&column=6&no-bg=true&no-frame=true" width="800px"/>
-
+[![An image of @divaqueendev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divaqueendev)](https://holopin.io/@divaqueendev)
 ---
 
 <!-- Footer with GIF and ending lines side by side -->
