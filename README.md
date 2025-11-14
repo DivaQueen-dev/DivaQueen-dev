@@ -6,7 +6,7 @@
 <!-- Name / Title -->
 <div align="center">
 # Ash!!
-~ Silently building things that speak for themselves ; 
+~ Silently building things that speak for themselves;
 </div>
 
 ---
