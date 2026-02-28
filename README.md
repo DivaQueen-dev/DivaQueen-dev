@@ -29,7 +29,7 @@
 ## About Me
 
 > Code quietly. Create fiercely.  
-> The night is long. So is the code.
+
 
 - Focused on dark elegance  
 - Consistency over shadows  
