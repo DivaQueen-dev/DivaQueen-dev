@@ -174,11 +174,11 @@ Support-oriented responses
     <img src="https://cdn.simpleicons.org/medium/8A7CFF" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitch.tv/">
+  <a href="https://www.twitch.tv/the_curiouspixel"
     <img src="https://cdn.simpleicons.org/twitch/8A7CFF" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/">
+  <a href="https://discord.gg/ZyCnp4ZW">
     <img src="https://cdn.simpleicons.org/discord/8A7CFF" height="32"/>
   </a>
 </p>
