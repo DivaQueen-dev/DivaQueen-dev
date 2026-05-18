@@ -174,15 +174,31 @@ Support-oriented responses
     <img src="https://cdn.simpleicons.org/medium/8A7CFF" height="32"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="https://www.twitch.tv/the_curiouspixel">
     <img src="https://cdn.simpleicons.org/twitch/8A7CFF" height="32"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="https://discord.gg/ZyCnp4ZW">
     <img src="https://cdn.simpleicons.org/discord/8A7CFF" height="32"/>
   </a>
-</p>
+  &nbsp;&nbsp;
 
+<a href="https://in.linkedin.com/in/asrithakovvuri1">
+  <img src="https://cdn.simpleicons.org/linkedin/8A7CFF" height="32"/>
+</a>
+  &nbsp;&nbsp;
+
+ <a href="https://www.codedex.io/@ZenithXaden">
+  <img src="https://img.icons8.com/ios-filled/100/8A7CFF/star--v1.png" height="32"/>
+</a>
+  &nbsp;&nbsp;
+
+  <a href="https://codolio.com/profile/cinnamongirl">
+    <img src="https://cdn.simpleicons.org/devdotto/8A7CFF" height="32"/>
+  </a>
+</p>
 <p align="center">
 <i>you might find me elsewhere… if you look hard enough</i>
 </p>
@@ -196,17 +212,24 @@ Support-oriented responses
 <h3 align="center">⟡ metrics ⟡</h3>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DivaQueen-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=DivaQueen-dev&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DivaQueen-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="150" src="https://streak-stats.demolab.com?user=DivaQueen-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
+<!-- ✦ Languages + Activity ✦ -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivaQueen-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivaQueen-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivaQueen-dev&theme=tokyonight"/>
 </p>
 
-<br/>
+<!-- ✦ Trophy Cabinet ✦ -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DivaQueen-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-<!-- ======================= SNAKE ======================= -->
+<!-- ✦ Contribution Snake ✦ -->
 
 <h3 align="center">⟡ traces ⟡</h3>
 
