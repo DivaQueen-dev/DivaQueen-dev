@@ -8,7 +8,7 @@
 
 <!-- ======================= NAME ======================= -->
 
-<h1 align="center">𝓐𝓼𝓱 :)!!!</h1>
+<h1 align="center">𝓐𝓼𝓱 !!!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=900&color=8A7CFF&center=true&vCenter=true&width=700&lines=Silently+building+things+that+speak+for+themselves;Full+Stack+Developer+(MERN+%2B+Java);Designing+Systems+%7C+Writing+Logic;Learning+ML+%7C+Practicing+DSA" />
