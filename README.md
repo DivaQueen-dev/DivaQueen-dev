@@ -229,6 +229,7 @@ Support-oriented responses
   <img src="https://github-profile-trophy.vercel.app/?username=DivaQueen-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
+
 <!-- ✦ Contribution Snake ✦ -->
 
 <h3 align="center">⟡ traces ⟡</h3>
@@ -269,7 +270,9 @@ leave a mark, call it art
 </td>
 </tr>
 </table>
-
+<a href="https://holopin.io/@divaqueendev">
+  <img src="https://holopin.me/divaqueendev" alt="Holopin badges">
+</a>
 </div>
 
 <br/>
