@@ -186,7 +186,7 @@ Support-oriented responses
   &nbsp;&nbsp;
 
 <a href="https://in.linkedin.com/in/asrithakovvuri1">
-  <img src="https://cdn.simpleicons.org/linkedin/8A7CFF" height="32"/>
+  <img src="https://img.icons8.com/ios-filled/100/8A7CFF/linkedin.png" height="32"/>
 </a>
   &nbsp;&nbsp;
 
@@ -212,25 +212,28 @@ Support-oriented responses
 <h3 align="center">⟡ metrics ⟡</h3>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DivaQueen-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=DivaQueen-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
   
   <img height="150" src="https://streak-stats.demolab.com?user=DivaQueen-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- ✦ Languages + Activity ✦ -->
+<!-- Languages + Activity -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivaQueen-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivaQueen-dev&theme=tokyonight"/>
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DivaQueen-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
-<!-- ✦ Trophy Cabinet ✦ -->
+<!-- Trophy Cabinet -->
+<!-- Using a community mirror instance since the official
+     github-profile-trophy.vercel.app is currently overloaded/unreliable -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivaQueen-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=DivaQueen-dev&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8"/>
 </p>
 
 
-<!-- ✦ Contribution Snake ✦ -->
+<!-- Contribution Snake -->
+<!-- NOTE: this image only renders once the Platane/snk GitHub Action is set up
+     in the DivaQueen-dev/DivaQueen-dev repo, pushing output to an "output" branch.
+     If it's still broken after everything else loads, that workflow likely isn't set up yet. -->
 
 <h3 align="center">⟡ traces ⟡</h3>
 
@@ -273,6 +276,11 @@ leave a mark, call it art
 <a href="https://holopin.io/@divaqueendev">
   <img src="https://holopin.me/divaqueendev" alt="Holopin badges">
 </a>
+
 </div>
 
 <br/>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<p align="center"><sub>let's connect, or don't. i'm not the clingy type.</sub></p>
